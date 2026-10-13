@@ -96,3 +96,8 @@ https://www.gradio.app/docs
 ## Disclaimer
 
 This application was created for educational purposes only. It is not intended to provide medical diagnoses, treatment recommendations, or real medical triage decisions. Anyone with medical concerns should consult a qualified healthcare professional.
+
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/AI-Healthcare-Symptom-Checker/blob/main/AI_Healthcare_Colab.ipynb)
+
