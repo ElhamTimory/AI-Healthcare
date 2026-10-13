@@ -99,5 +99,6 @@ This application was created for educational purposes only. It is not intended t
 
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/USERNAME/AI-Healthcare-Symptom-Checker/blob/main/AI_Healthcare_Colab.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ElhamTimory/AI-Healthcare/blob/main/AI_Healthcare.ipynb)
 
