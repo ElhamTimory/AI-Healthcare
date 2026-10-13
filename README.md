@@ -73,7 +73,7 @@ The application also includes a disclaimer explaining that it is for educational
 ## How to Run the Project
 
 1. Open Google Colab.
-2. Upload the `AI_Healthcare_Colab.ipynb` notebook.
+2. Upload the `AI_Healthcare.ipynb` notebook.
 3. Run the cells from top to bottom.
 4. Wait for the Gradio interface to appear.
 5. Enter an example symptom description and click the button to analyze it.
